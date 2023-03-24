@@ -55,6 +55,11 @@ body {
 /*____SECTION ONE____*/
 
 .sec-one{background-color: var(--darker-color);
+        background-image: linear-gradient( rgba(46, 47, 66, 0.7),  
+        rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
         padding-top: 188px;
         padding-bottom: 188px;}
 .div-one{display: flex;
