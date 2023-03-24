@@ -114,7 +114,9 @@ color: var(--brand-color);}
                 clip-path: inset(100%);
                 clip: rect(0 0 0 0);
                 overflow: hidden;}
-.sec-two-list{gap: 24px; padding: 0; margin: 0;}
+.sec-two-list{gap: 24px;
+              padding: 0; 
+              margin: 0;}
 .sec-two-li{width: calc((100% - 72px) / 4);}
 .sec-two-item{padding: 0;margin: 0 auto;
     margin-bottom: 8px;
@@ -127,8 +129,7 @@ color: var(--brand-color);}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--gray-color);
-    }
+    color: var(--gray-color);}
 
 /*____SECTION THREE____*/
 
