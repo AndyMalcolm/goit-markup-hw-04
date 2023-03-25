@@ -251,6 +251,7 @@ footer .logo{margin: 0;}
     letter-spacing: 0.02em;
     color: var(--lighter-color);
     width: 264px;}
+.footer-div{display: flex;}
 .footer-soc-div{display: flex;
                 flex-direction: column;
                 margin-left: 120px;}
@@ -260,7 +261,6 @@ footer .logo{margin: 0;}
                 padding: 0;}
 .footer-soc{display: flex;
             gap: 16px;
-            margin-left: 120px;
             margin-top: 16px;}
 .footer-li{width: 40px;
            height: 40px;
@@ -272,8 +272,7 @@ footer .logo{margin: 0;}
     display: flex;
     align-items: center;
     justify-content: center;}
-.footer-link:hover{background-color: var(--violet-color);}
-.footer-soc-icon{}
+.footer-link:hover{background-color: var(--green-color);}
 
     
     /*_____PORTFOLIO PAGE_____*/
