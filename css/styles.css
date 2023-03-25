@@ -236,7 +236,6 @@ img{max-width: 100%; height: auto; display: block;}
     align-items: center;
     justify-content: center;}
 .sec-five-li:hover{border-color: var(--violet-color);}
-.div-five{}
 .customer-link{}
 .customer-icon{fill: var(--light-gray-color);}
 .customer-icon:hover{fill: var(--violet-color);}
