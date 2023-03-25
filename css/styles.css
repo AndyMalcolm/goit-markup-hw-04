@@ -214,7 +214,8 @@ img{max-width: 100%; height: auto; display: block;}
 
 /*____SECTION FIVE____*/
 
-.sec-five{padding-top: 120px;}
+.sec-five{padding-top: 120px;
+          padding-bottom: 120px;}
 .sec-five-h-two{margin: 0;
     margin-bottom: 72px;
     font-weight: 700;
@@ -224,9 +225,19 @@ img{max-width: 100%; height: auto; display: block;}
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--darker-color);}
-.sec-five-list{}
+.sec-five-list{display: flex;
+               justify-content: center;
+               gap: 24px;}
 .sec-five-li{}
-.company-logo{}
+.customer-link{}
+.customer-logo{}
+.div-five{width: 168px;
+    height: 88px;
+    border: 1px solid var(--light-gray-color);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
 
 /*____FOOTER____*/
 
