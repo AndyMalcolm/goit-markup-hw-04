@@ -134,8 +134,7 @@ color: var(--white-color);}
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--gray-color);}
-.div-two{content: '';
-         width: 264px;
+.div-two{width: 264px;
          height: 112px;
          background-color: var(--light-color);
          margin-bottom: 8px;
