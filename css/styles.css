@@ -236,8 +236,10 @@ img{max-width: 100%; height: auto; display: block;}
     display: flex;
     align-items: center;
     justify-content: center;}
+.div-five:hover{border-color: var(--violet-color);}
 .customer-link{}
-.customer-icon{}
+.customer-icon{fill: var(--light-gray-color);}
+.customer-icon:hover{fill: var(--violet-color);}
 
 /*____FOOTER____*/
 
