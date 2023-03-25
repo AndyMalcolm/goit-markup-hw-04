@@ -251,15 +251,28 @@ footer .logo{margin: 0;}
     letter-spacing: 0.02em;
     color: var(--lighter-color);
     width: 264px;}
+.footer-soc-div{display: flex;
+                flex-direction: column;
+                margin-left: 120px;}
 .footer-h-three{color: var(--white-color);
                 margin-left: 120px;
-                justify-content: center;}
+                margin: 0;
+                padding: 0;}
 .footer-soc{display: flex;
             gap: 16px;
             margin-left: 120px;
-            justify-content: center;}
-.footer-li{}
-.footer-link{}
+            margin-top: 16px;}
+.footer-li{width: 40px;
+           height: 40px;
+           display: flex;}
+.footer-link{width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: var(--brand-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+.footer-link:hover{background-color: var(--violet-color);}
 .footer-soc-icon{}
 
     
