@@ -228,15 +228,15 @@ img{max-width: 100%; height: auto; display: block;}
 .sec-five-list{display: flex;
                justify-content: center;
                gap: 24px;}
-.sec-five-li{width: 168px;
-    height: 88px;
-    border: 1px solid var(--light-gray-color);
-    border-radius: 4px;
-    display: flex;
-    align-items: center;
-    justify-content: center;}
-.sec-five-li:hover{border-color: var(--violet-color);}
-.customer-link{}
+.sec-five-li{}
+.customer-link{width: 168px;
+               height: 88px;
+               border: 1px solid var(--light-gray-color);
+               border-radius: 4px;
+               display: flex;
+               align-items: center;
+               justify-content: center;}
+.customer-link:hover{border-color: var(--violet-color);}
 .customer-icon{fill: var(--light-gray-color);}
 .customer-icon:hover{fill: var(--violet-color);}
 
