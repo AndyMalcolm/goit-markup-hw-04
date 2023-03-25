@@ -197,6 +197,7 @@ img{max-width: 100%; height: auto; display: block;}
                   align-items: center;
                   justify-content: center;}
 .workers-soc-link:hover{background-color: var(--violet-color);}
+.workers-soc-icon{fill: var(--light-color);}
 
 /*____FOOTER____*/
 
