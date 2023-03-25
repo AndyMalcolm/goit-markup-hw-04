@@ -229,8 +229,6 @@ img{max-width: 100%; height: auto; display: block;}
                justify-content: center;
                gap: 24px;}
 .sec-five-li{}
-.customer-link{}
-.customer-logo{}
 .div-five{width: 168px;
     height: 88px;
     border: 1px solid var(--light-gray-color);
@@ -238,6 +236,8 @@ img{max-width: 100%; height: auto; display: block;}
     display: flex;
     align-items: center;
     justify-content: center;}
+.customer-link{}
+.customer-icon{}
 
 /*____FOOTER____*/
 
