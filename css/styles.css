@@ -212,6 +212,22 @@ img{max-width: 100%; height: auto; display: block;}
 .workers-soc-link:hover{background-color: var(--violet-color);}
 .workers-soc-icon{fill: var(--light-color);}
 
+/*____SECTION FIVE____*/
+
+.sec-five{padding-top: 120px;}
+.sec-five-h-two{margin: 0;
+    margin-bottom: 72px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--darker-color);}
+.sec-five-list{}
+.sec-five-li{}
+.company-logo{}
+
 /*____FOOTER____*/
 
 .footer{background-color: var(--darker-color);
@@ -296,3 +312,4 @@ footer .logo{margin: 0;}
 :root{--darker-color: #2E2F42;}
 :root{--violet-color: #404BBF;}
 :root{--white-color:  #FFFFFF;}
+:root{--light-gray-color: #8E8F99;}
