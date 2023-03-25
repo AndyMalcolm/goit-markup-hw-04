@@ -254,6 +254,11 @@ footer .logo{margin: 0;}
     letter-spacing: 0.02em;
     color: var(--lighter-color);
     width: 264px;}
+.footer-h-three{color: var(--white-color);}
+.footer-soc{}
+.footer-li{}
+.footer-link{}
+.footer-soc-icon{}
 
     
     /*_____PORTFOLIO PAGE_____*/
