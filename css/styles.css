@@ -320,14 +320,10 @@ footer .logo{margin: 0;}
             list-style: none;}
 .port-img{margin: 0; padding: 0;}
 .port-item{flex-basis: calc((100% - 48px) / 3);}
-/*.port-item:hover, .port-item:focus{box-shadow: 
-                0px 1px 6px rgba(46, 47, 66, 0.08), 
-                0px 1px 1px rgba(46, 47, 66, 0.16), 
-                0px 2px 1px rgba(46, 47, 66, 0.08);}*/
-.port-border:hover, .port-border:focus{box-shadow: 
+/*.port-border:hover, .port-border:focus{box-shadow: 
     0px 1px 6px rgba(46, 47, 66, 0.08), 
     0px 1px 1px rgba(46, 47, 66, 0.16), 
-    0px 2px 1px rgba(46, 47, 66, 0.08);}
+    0px 2px 1px rgba(46, 47, 66, 0.08);}*/
 .port-name{margin: 0;
     padding: 0;
     font-weight: 500;
