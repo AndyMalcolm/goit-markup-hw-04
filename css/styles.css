@@ -62,9 +62,9 @@ body {
         background-image: linear-gradient( rgba(46, 47, 66, 0.7),  
         rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
         background-repeat: no-repeat;
-        width: 1440px;
         background-position: center;
         background-size: cover;
+        width: 1440px;
         padding-top: 188px;
         padding-bottom: 188px;}
 .div-one{display: flex;
